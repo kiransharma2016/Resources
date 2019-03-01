@@ -9,3 +9,19 @@ https://guides.github.com/activities/hello-world/
 
 ## aws-demo kms etc
 https://github.com/miztiik/AWS-Demos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## kms /security/IAM
+https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html
