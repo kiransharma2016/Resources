@@ -5,3 +5,7 @@ https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 ## git hub resources
 https://guides.github.com/activities/hello-world/
+
+
+## aws-demo kms etc
+https://github.com/miztiik/AWS-Demos
