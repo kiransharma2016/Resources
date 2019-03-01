@@ -25,3 +25,8 @@ https://github.com/miztiik/AWS-Demos
 
 ## kms /security/IAM
 https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html
+
+
+## creating signed url 
+
+https://www.youtube.com/watch?v=y1cX9EtDMho
