@@ -34,4 +34,5 @@ https://www.youtube.com/watch?v=y1cX9EtDMho
 
 ## aws code deploy 
 
-https://hackernoon.com/continuous-deployment-with-aws-codedeploy-github-d1eb97550b82
+https://hackernoon.com/continuous-deployment-with-aws-codedeploy-github-d1eb97550b82 \
+https://cloudacademy.com/blog/how-to-deploy-application-code-from-s3-using-aws-codedeploy/
