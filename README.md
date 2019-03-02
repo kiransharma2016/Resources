@@ -30,3 +30,8 @@ https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html
 ## creating signed url 
 
 https://www.youtube.com/watch?v=y1cX9EtDMho
+
+
+## aws code deploy 
+
+https://hackernoon.com/continuous-deployment-with-aws-codedeploy-github-d1eb97550b82
