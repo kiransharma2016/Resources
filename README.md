@@ -36,3 +36,9 @@ https://www.youtube.com/watch?v=y1cX9EtDMho
 
 https://hackernoon.com/continuous-deployment-with-aws-codedeploy-github-d1eb97550b82 \
 https://cloudacademy.com/blog/how-to-deploy-application-code-from-s3-using-aws-codedeploy/
+
+
+
+
+## devips training videos
+https://www.youtube.com/watch?v=Me3ea4nUt0U
