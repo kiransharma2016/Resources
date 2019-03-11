@@ -40,5 +40,9 @@ https://cloudacademy.com/blog/how-to-deploy-application-code-from-s3-using-aws-c
 
 
 
-## devips training videos
+## devops training videos
 https://www.youtube.com/watch?v=Me3ea4nUt0U
+
+## python training 
+https://www.youtube.com/watch?v=vaysJAMDaZw
+
