@@ -46,3 +46,6 @@ https://www.youtube.com/watch?v=Me3ea4nUt0U
 ## python training 
 https://www.youtube.com/watch?v=vaysJAMDaZw
 
+
+## aws useful videos
+https://www.youtube.com/watch?v=mIILLMi4w1A&list=PLxzKY3wu0_FLyzxPid-eKPojeb92xsjL4
